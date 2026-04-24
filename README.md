@@ -25,11 +25,6 @@
 
 <br><br>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА)
-[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](ССЫЛКА)
-[![osu!](https://img.shields.io/badge/osu!-ff66aa?style=for-the-badge&logo=osu!&logoColor=white)](ССЫЛКА)
-[![enka.network](https://img.shields.io/badge/enka.network-4b6371?style=for-the-badge)](ССЫЛКА)
-
 </div>
 <!--
 **CapustaUchiha/CapustaUchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
