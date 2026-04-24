@@ -1,9 +1,8 @@
 <div width="100%" align="center">
-  <p width="80%" align="left">
-  ald;fj;aljf;aejf;oadsj;fljaw;orfj;oefj;lae
-</p>
-<p align="right" width="20%">
-  a;ldfj;aldjf;aldjfpo ewhfjea;foie afna;lsfjasejfliaerj fkjdf;ae jnfladufaebflj.kjaegsfdgslg h;lsrjg;srjhg;hr a;og;sohg;sljhgl;shfg lhsrl;ghlfsgh
-</p>
+ <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0/"/>
+  <div>
+   
+ </div>
+
   
 </div>
