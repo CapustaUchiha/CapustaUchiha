@@ -6,6 +6,11 @@
 My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.
       
  </div>
-
+<pre>
+      ama lil catboy programer
+      UwU
+      Nya
+      Haassss
+</pre>
   
 </div>
