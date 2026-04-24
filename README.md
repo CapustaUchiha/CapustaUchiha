@@ -2,6 +2,41 @@
 
 **My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.**
 
+
+<div align="center">
+
+# Hello hello
+### I'm [Твое Имя], a tech goblin and magical girl wannabe ☆
+
+<table>
+  <tr>
+    <td align="left">
+      <br>
+      💼 <b>BSC @ [ВУЗ]</b> • Back-end dev • Platform Engineer <br>
+      💻 <b>System programming languages</b> • DevOps <br>
+      📖 <b>Software architecture</b> • Distributed systems <br>
+      🎮 <b>Music</b> • Games • Anime • Code • Art <br>
+      🐾 <b>Muffin</b> 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+      <br><br>
+    </td>
+    <td rowspan="2">
+      <img src="ССЫЛКА_НА_ТВОЮ_КАРТИНКУ" width="200" alt="Character Illustration">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bmZ6Znc1bmZ6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
+
+<br><br>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА)
+[![Mastodon](https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](ССЫЛКА)
+[![osu!](https://img.shields.io/badge/osu!-ff66aa?style=for-the-badge&logo=osu!&logoColor=white)](ССЫЛКА)
+[![enka.network](https://img.shields.io/badge/enka.network-4b6371?style=for-the-badge)](ССЫЛКА)
+
+</div>
 <!--
 **CapustaUchiha/CapustaUchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
