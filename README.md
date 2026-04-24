@@ -19,11 +19,11 @@
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/bongocat.gif" width="100">
 
-<br><br>
+<br>
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Capusta_Uchiha)
 
