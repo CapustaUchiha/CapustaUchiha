@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bmZ6Znc1bmZ6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50">
+<img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/flyincat.gif" width="50">
 
 <br><br>
 
