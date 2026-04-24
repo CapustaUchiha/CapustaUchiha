@@ -25,6 +25,8 @@
 
 <br><br>
 
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Capusta_Uchiha)
+
 </div>
 <!--
 **CapustaUchiha/CapustaUchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
