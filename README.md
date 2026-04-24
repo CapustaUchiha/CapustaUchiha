@@ -14,7 +14,7 @@
       <br>
     </td>
     <td rowspan="2">
-      <img src="ССЫЛКА_НА_ТВОЮ_КАРТИНКУ" width="200" alt="Character Illustration">
+      <img src="[ССЫЛКА_НА_ТВОЮ_КАРТИНКУ](https://github.com/CapustaUchiha/CapustaUchiha/blob/main/giphy.gif)" width="200" alt="Character Illustration">
     </td>
   </tr>
 </table>
