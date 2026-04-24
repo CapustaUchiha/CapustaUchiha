@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/flyincat.gif" width="100">
+<img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/bongocat.gif" width="100">
 
 <br><br>
 
