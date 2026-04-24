@@ -1,6 +1,6 @@
 **I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my workflow, I leverage AI tools for rapid prototyping and efficient development.**
 
-**My projects span a broad spectrum: from higher math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.**
+**My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.**
 
 <!--
 **CapustaUchiha/CapustaUchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
