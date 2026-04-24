@@ -5,18 +5,12 @@
 
 <div align="center">
 
-# Hello hello
-### I'm [Твое Имя], a tech goblin and magical girl wannabe ☆
+# Hello
 
 <table>
   <tr>
     <td align="left">
       <br>
-      💼 <b>BSC @ [ВУЗ]</b> • Back-end dev • Platform Engineer <br>
-      💻 <b>System programming languages</b> • DevOps <br>
-      📖 <b>Software architecture</b> • Distributed systems <br>
-      🎮 <b>Music</b> • Games • Anime • Code • Art <br>
-      🐾 <b>Muffin</b> 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
       <br><br>
     </td>
     <td rowspan="2">
