@@ -7,10 +7,9 @@ My projects span a broad spectrum: from academic math and personal proxy servers
       
  </div>
 <pre>
-      ama lil catboy programer
-      UwU
-      Nya
-      Haassss
+      Test
+      Test
+      Test
 </pre>
   
 </div>
