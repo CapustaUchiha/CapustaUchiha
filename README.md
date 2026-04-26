@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&width=150&lines=Hello" alt="Typing SVG" />
 </a>
 
-  <table>
+  <table border="0">
     <tr>
       <td align="left">
         <br>
