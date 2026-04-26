@@ -12,7 +12,7 @@
           <br>
         </td>
         <td rowspan="2">
-          <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/ded.gif" width="20%" alt="Character Illustration">
+          <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/ded.gif" width="100%" align="center" alt="Character Illustration">
         </td>
     </tr>
     </table>
