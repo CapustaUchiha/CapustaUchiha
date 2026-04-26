@@ -21,7 +21,7 @@
         <br><br>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/ded.gif" width="250" align="center" alt="Character Illustration">
+        <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/ded.gif" width="200" align="center" alt="Character Illustration">
       </td>
   </tr>
   </table>
