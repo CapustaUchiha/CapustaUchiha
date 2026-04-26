@@ -22,7 +22,7 @@
         <br><br>
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/ded.gif" width="200" align="center" alt="Character Illustration">
+        <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/assets/ded.gif" width="200" align="center" alt="Character Illustration">
       </td>
   </tr>
   </table>
@@ -30,7 +30,7 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/bongocat.gif" width="100">
+  <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/assets/bongocat.gif" width="100">
 
   <br>
 
