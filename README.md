@@ -15,13 +15,13 @@
             My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.
           <br><br>
           ✨ Personality Type: INFP
-          <br>
+          <br><br>
           🛠️ Stack:<br>
           Python, Asyncio, Aiogram, Linux, Docker Compose, VPS, LLM
-          <br>
+          <br><br>
           🧪 Familiar With:<br>
           C, C++, TypeScript, C#, Lua, Unity
-          <br>
+          <br><br>
         </td>
         <td rowspan="2">
           <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/ded.gif" width="100%" align="center" alt="Character Illustration">
