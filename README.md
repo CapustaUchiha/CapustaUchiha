@@ -23,7 +23,7 @@
           C, C++, TypeScript, C#, Lua, Unity
           <br><br>
         </td>
-        <td rowspan="2">
+        <td>
           <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/ded.gif" width="100%" align="center" alt="Character Illustration">
         </td>
     </tr>
