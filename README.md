@@ -15,6 +15,8 @@
             My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.
           <br><br>
           ✨ Personality Type: INFP
+          🛠️ Stack: Python, Asyncio, Aiogram, Linux, Docker Compose, VPS, LLM
+          🧪 Familiar With: C, C++, TypeScript, C#, Lua, Unity
           <br>
         </td>
         <td rowspan="2">
