@@ -32,7 +32,6 @@
   <br>
 
   [![Codeberg](https://img.shields.io/badge/Codeberg-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Capusta_Uchiha)
-  ![MBTI](https://img.shields.io/badge/MBTI-INTJ--A-blueviolet?style=flat-square&logo=psychology)
 
 </div>
 
