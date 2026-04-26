@@ -10,7 +10,7 @@
         <td align="center">
           <b>I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my workflow, I leverage AI tools for rapid prototyping and as a powerful learning aid to master new topics faster.</b><br>
           <b>My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.</b>
-          <br>
+          <br><br>
           <pre>
             Test
           </pre>
