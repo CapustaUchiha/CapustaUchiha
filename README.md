@@ -7,7 +7,7 @@
   <div>
     <table>
       <tr>
-        <td align="center">
+        <td align="left">
           <br>
           I’m passionate about connecting my diverse interests through code.
             I love Python for its conciseness and C for its low-level depth.
