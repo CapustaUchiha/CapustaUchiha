@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&width=150&lines=Hello" alt="Typing SVG" /></a>
     <table>
       <tr>
-        <td align="left">
+        <td align="center">
           <br>
           <b>I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my             workflow, I leverage AI tools for rapid prototyping and as a powerful learning aid to master new topics faster.</b><br>
           <b>My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite          fictional characters.</b><br>
