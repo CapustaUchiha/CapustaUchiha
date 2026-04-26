@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=50&duration=4000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello;I'm+Capusta_Uchiha" alt="Typing SVG" width="70%" />
 </a>
+<br>
 
   <table>
     <tr>
