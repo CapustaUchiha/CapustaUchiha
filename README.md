@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&width=150&lines=Hello" alt="Typing SVG" />
 </a>
 
-  <table border="0">
+  <table>
     <tr>
-      <td align="left">
+      <td align="left" width="70%">
         <br>
         I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my workflow, I leverage AI tools for rapid prototyping and as a powerful learning aid to master new topics faster. My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.
         <br><br><br>
@@ -20,7 +20,7 @@
         C, C++, TypeScript, C#, Lua, Unity
         <br><br>
       </td>
-      <td>
+      <td align="center" width="30">
         <img src="https://raw.githubusercontent.com/CapustaUchiha/CapustaUchiha/main/ded.gif" width="100%" align="center" alt="Character Illustration">
       </td>
   </tr>
