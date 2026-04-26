@@ -4,7 +4,7 @@
   <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/ded.gif" width="20%" align="right" alt="Character Illustration">
 
   <div>
-    # Hello
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F7F7F7&width=150&lines=Hello" alt="Typing SVG" /></a>
     <div>
       I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my workflow,     I leverage AI tools for rapid prototyping and as a powerful learning aid to master new topics faster. My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.</div>
     </div>
