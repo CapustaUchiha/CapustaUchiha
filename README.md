@@ -8,7 +8,17 @@
     <div>
 I’m passionate about connecting my diverse interests through code. I love Python for its conciseness and C for its low-level depth. In my workflow,     I leverage AI tools for rapid prototyping and as a powerful learning aid to master new topics faster. My projects span a broad spectrum: from academic math and personal proxy servers to stock market analysis and fine-tuning LLMs on my favorite fictional characters.
     </div>
-    </div>
+  </div>
+  
+  <br><br>
+
+  <img src="https://github.com/CapustaUchiha/CapustaUchiha/blob/main/bongocat.gif" width="100">
+
+  <br>
+
+  [![Codeberg](https://img.shields.io/badge/Codeberg-2185d0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Capusta_Uchiha)
+
+</div>
 
 
 
